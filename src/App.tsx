@@ -173,7 +173,7 @@ export const App = () => {
           <ButtonMobile
             block
             view="primary"
-            href="https://alfa.me/cbpartner"
+            href="alfabank://multistep-route?fromModule=FORM&stepNumber=0&alias=alfa-subscription-alias&version=2&source=onbYouth"
             onClick={clickSubmit}
           >
             Забрать подписку бесплатно
